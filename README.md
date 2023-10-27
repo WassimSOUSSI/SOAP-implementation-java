@@ -1,2 +1,1 @@
-# SOAP-implementation_java
-Implementation of a SOAP web service using the JWS library.
+#A simple example of using a SOAP web service as middleware to facilitate communication between two projects: one as a service provider and the other as a service consumer, using the JWS library.
